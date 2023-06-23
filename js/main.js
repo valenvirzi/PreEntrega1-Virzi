@@ -73,12 +73,3 @@ function review(clientName, restName) {
     * Promedio:      ${promReview}/5
     ${recomend + " recomendaría este restaurante a otras personas"}.`);
 }
-
-// Number(
-//   prompt(
-//     `Del 0 al 5: ¿Qué puntaje le darías a (la comida, el ambiente, la atención)?`
-//   )
-// );
-// let recomend = confirm(`¿Recomendarías ${restName} a otras personas?`);
-// let review = ``;
-// alert(review);
